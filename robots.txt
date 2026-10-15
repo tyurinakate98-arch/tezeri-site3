@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+# Review version: HTML pages carry noindex until the public launch is configured.
